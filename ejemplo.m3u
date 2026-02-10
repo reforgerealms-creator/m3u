@@ -1,0 +1,24 @@
+# Archivo de ejemplo .mu3 para Magma
+#EXTM3U
+
+# --- PELÍCULAS ---
+#EXTINF:-1 tvg-logo="nose.png" group-title="Películas",Ejemplo Película
+https://www.youtube.com/watch?v=l7-4s7Zx6lQ&list=RDTRREvfdUPdQ&index=20
+
+# --- SERIES ---
+# Serie de Ejemplo
+# Temporada 1
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E1
+https://www.youtube.com/watch?v=l7-4s7Zx6lQ&list=RDTRREvfdUPdQ&index=20
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E2
+https://www.youtube.com/watch?v=l7-4s7Zx6lQ&list=RDTRREvfdUPdQ&index=20
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E3
+https://www.youtube.com/watch?v=l7-4s7Zx6lQ&list=RDTRREvfdUPdQ&index=20
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E4
+https://www.youtube.com/watch?v=l7-4s7Zx6lQ&list=RDTRREvfdUPdQ&index=20
+#EXTINF:-1 tvg-logo="nose.png" group-title="Series",Ejemplo Serie - T1E5
+https://www.youtube.com/watch?v=l7-4s7Zx6lQ&list=RDTRREvfdUPdQ&index=20
+
+# --- TV EN VIVO ---
+#EXTINF:-1 tvg-logo="nose.png" group-title="TV",Canal Live Ejemplo
+https://www.youtube.com/watch?v=l7-4s7Zx6lQ&list=RDTRREvfdUPdQ&index=20
