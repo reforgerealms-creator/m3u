@@ -22,7 +22,9 @@ https://youtu.be/l7-4s7Zx6lQ
 # --- TV EN VIVO ---
 #EXTINF:-1 tvg-logo="nose.png" group-title="TV",Canal Live Ejemplo
 https://youtu.be/l7-4s7Zx6lQ
-
-
-
+#EXTINF:-1 tvg-logo="nose.png" group-title="pelis", nose
+https://s1.vimeos.net/hls2/03/00008/3p229n5xf37i_h/master.m3u8?t=jFWZTM6JK1c_fsB_WMGuKWaBdxt5D1cjqLh9BSTtT94&s=1770734148&e=43200&v=113082568&i=0.0&sp=0&r=e
+***FILMES***
+#EXTINF:-1 tvg-logo="nose.png" group-title="pelis", nose
+https://s1.vimeos.net/hls2/03/00008/3p229n5xf37i_h/master.m3u8?t=jFWZTM6JK1c_fsB_WMGuKWaBdxt5D1cjqLh9BSTtT94&s=1770734148&e=43200&v=113082568&i=0.0&sp=0&r=e
 
